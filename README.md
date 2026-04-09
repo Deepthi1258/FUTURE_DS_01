@@ -54,4 +54,4 @@ This project analyzes customer churn using Power BI dashboard.
 - Overall churn rate is 50%
 
 ### 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](image.png)
