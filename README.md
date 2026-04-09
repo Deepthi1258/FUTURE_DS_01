@@ -36,3 +36,22 @@ The dataset includes the following fields:
 ## Author
 Venkata Deepthi  
 Data Science & Analytics Intern – Future Interns
+## 📊 Task 2: Customer Churn Analysis (Power BI)
+
+This project analyzes customer churn using Power BI dashboard.
+
+### 🔧 Tools Used
+- Microsoft Power BI
+
+### 📁 Files
+- FUTURE_DS_02_VenkataDeepthi_Churn_Analysis.pbix
+- image.png
+
+### 📊 Key Insights
+- Basic plan has higher churn rate
+- Premium plan retains more customers
+- Customers churn mostly in early months
+- Overall churn rate is 50%
+
+### 📷 Dashboard Preview
+![Dashboard](dashboard.png)
