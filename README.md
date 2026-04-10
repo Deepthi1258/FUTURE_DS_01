@@ -55,3 +55,32 @@ This project analyzes customer churn using Power BI dashboard.
 
 ### 📷 Dashboard Preview
 ![Dashboard](image.png)
+# Marketing Campaign Analysis Dashboard (Power BI)
+
+## 📊 Project Overview
+This project analyzes marketing campaign performance across different platforms like Facebook, Instagram, and Google Ads.
+
+## 🔍 Key Metrics
+- Total Spend
+- Total Clicks
+- Total Conversions
+- CTR (Click Through Rate)
+- Conversion Rate
+- ROI
+
+## 📈 Insights
+- Google Ads generated the highest conversions
+- Instagram showed moderate performance
+- Facebook had lower conversion efficiency
+- Higher spend resulted in higher conversions
+
+## 🛠 Tools Used
+- Power BI
+- Excel
+
+## 📁 Files Included
+- Power BI Dashboard (.pbix)
+- dashboard.png
+
+## 📌 Author
+Venkata Deepthi
