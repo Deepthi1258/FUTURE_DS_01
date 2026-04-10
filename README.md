@@ -1,4 +1,4 @@
-# Business Sales Performance Analytics
+## 📊 Task 1: Business Sales Performance Analytics
 
 This project analyzes business sales data to identify revenue trends, top-selling products, category performance, and regional sales performance.
 
@@ -55,7 +55,7 @@ This project analyzes customer churn using Power BI dashboard.
 
 ### 📷 Dashboard Preview
 ![Dashboard](image.png)
-# Marketing Campaign Analysis Dashboard (Power BI)
+## 📊 Task 3: Marketing Campaign Analysis Dashboard (Power BI)
 
 ## 📊 Project Overview
 This project analyzes marketing campaign performance across different platforms like Facebook, Instagram, and Google Ads.
